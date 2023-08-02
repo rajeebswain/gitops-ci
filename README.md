@@ -1,5 +1,5 @@
-# Gitops-CICD-Pipeline
-GitOps with Argo CD &amp; Advanced Jenkins 
+# Gitops-Argo CDCICD-Pipeline
+
 ![image](https://github.com/rajeebswain/Gitops-CICD-Pipeline/assets/105234711/5cd141f2-264d-4b52-8ef7-51e4f7de925a)
 
 ### Description:
