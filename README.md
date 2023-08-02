@@ -19,4 +19,6 @@ Once configurations are updated in the configuration repository, we can raise on
     - Argo CD
 
 
+[The CD Part](https://github.com/rajeebswain/gitops-cd)
+
 
